@@ -2,7 +2,9 @@
 @import './ShoppingList.css';
 @import './Cart.css';
 @import './Banner.css';
-@import './Care.css';
+@import './Footer.css';
+@import './Layout.css';
+@import './Categories.css';
 
 
 body {
